@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tiempien
+- 👋 Hi, I’m @Tiempien, born in 1998 and currently live in The Netherlands
 - 👀 I’m interested in everything about programming and developping. 
 - 🌱 I’m currently learning for the AZ 400 certification.
 - 📫 How to reach me ... you can reach my out wy the same name on my socials
